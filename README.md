@@ -45,8 +45,8 @@ Sou um **Desenvolvedor de Dados e Aplicações**, apaixonado por tecnologia, ino
 ## 🌐 Me encontre por aí
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/rodrigo-pereira-b39914210/)
-- 📂 [Portfólio 3D Interativo](https://seu-link-do-portfólio.vercel.app/)
-- 📧 E-mail: seu.email@email.com
+- 📂 [Portfólio 3D Interativo](https://datarodrigo.vercel.app/)
+- 📧 E-mail: 2005rodrigosilva@gmail.com
 
 ---
 
