@@ -14,10 +14,6 @@ Desenvolvedor de Dados e Analista focado em transformar dados brutos em insights
 - [Objetivo](#-objetivo)  
 - [Principais Habilidades](#-principais-habilidades)  
 - [Ferramentas e Tecnologias](#-ferramentas-e-tecnologias)  
-- [Experiência Profissional](#-experiência-profissional)  
-- [Projetos em Destaque](#-projetos-em-destaque)  
-- [Formação e Certificações](#-formação-e-certificações)  
-- [Contribuições Open Source](#-contribuições-open-source)  
 - [Contato](#-contato)  
 
 ---
